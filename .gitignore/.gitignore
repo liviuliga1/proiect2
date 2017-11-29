@@ -1,0 +1,194 @@
+https://drive.google.com/file/d/0B8qE059UlwTrZExZQms0Q1l3SjA/view
+
+
+<html>
+<head>
+  <title>Uflex</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+  <div class="test1"style="background-color: #A9A9A9;">
+  <h2 style="text-align:right;margin-left:15px;">GET YOUR FULL ULFEX SET</h2>
+  <h2 style="text-align:right;margin-left:15px;">WITH 33% OFF</h2>
+  <p style="text-align:right;margin-left:15px;"><b>This November</b> we offer a free <b>Elbow sleeve</b< with the purchase
+   of our <b>Pro Knee sleve & pro Ankle Sleeve</b>
+  </p>
+    <img src="C:\Users\Windows\Desktop\Uflexx1\bundle.png"
+     width="150" height="300" alt="" /><br />
+
+    <div class="test3">
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" /><label for="fullname">
+    full name:</label><input type="text" id="fullname" name="full name" /><br />
+      <label for="address">address:</label><input type="text" id="address"
+       name="address" /><label for="zipcode">zip code:</label><input type="text"
+       id="zipcode" name="zip code" /><br />
+      <label for="city">city:</label><input type="text" id="city"
+       name="city" /><label for="city">state:</label><input type="text"
+       id="state" name="state" /><label for="country">city:</label><input
+       type="text" id="country" name="country" /><br />
+      <label for="shippingmethod">shipping method:</label><input type="text"
+       id="shippingmethod" name="shipping method" /><label for="cardno">card no.
+       </label><input type="text" id="cardno" name="card no" /><br />
+      <label for="cardowner">card owner:</label><input type="text"
+       id="cardowner" name="card owner" /><label for="month">month
+       </label><input type="text" id="month" name="month" /><label for="year">
+       year:</label><input type="text" id="year" name="year" /><label for="CVV">
+       CVV:</label><input type="text" id="CVV" name="CVV" /><br />
+    </div>
+    <p style="text-align:right;margin-left:1200px;">
+      <button class  ="completeorder">Complete Order</button>
+    </p></div>
+      <h2 style="text-align: center">SUBSCRIPE FOR 10% ON OUR NOVEMBER BLITZ SALE</h2>
+      <p style="text-align: center"><b>This November</b> we offer a free <b>Elbow sleeve</b<with the
+      purchase of our <b>Pro Knee sleve & pro Ankle Sleeve</b>
+      </p>
+      <p style="text-align: center"><label for="email">Email:</label><input type="text"
+      id="email" name="email"/><label for="fullname">full name:</label><input type="text"
+      id="fullname" name="full name" /></p>
+      <p style="text-align: center">
+        <button class="getyour">Get your 10% discount!</button>
+      </p>
+
+
+    <div class="test2" style="background-image: url("C:\Users\Windows\Desktop\Uflexx1\jos.jpg");">
+      <h2>ELBOW Sleeve</h2>
+      <p>The Best Compression Sleve</p><img src="D:\aaa (1)\stelutza.png"
+       width="25" height="80" alt="" /><br /><img src="C:\Users\Windows\Desktop\Uflexx1\pro1.png"
+       width="150" height="300" alt="" /><br />
+       <button class="buynow1">15.99 | Buy Now-></button>
+       <h2>ELBOW Sleeve</h2><p>The Best Compression
+       Sleve</p><img src="D:\aaa (1)\stelutza.png"
+        width="25" height="80" alt="" /><br /><img src="C:\Users\Windows\Desktop\Uflexx1\pro1.png"width="150"
+       height="300"alt="" /><br />
+       <button class="buynow2">15.99 | Buy Now-></button>
+        <h2>ELBOW Sleeve</h2>
+        <p>The Best Compression Sleve</p><img src="D:\aaa (1)\stelutza.png"
+         width="25" height="80" alt="" /><br /><img src="C:\Users\Windows\Desktop\Uflexx1\pro1.png"
+         width="150" height="300" alt="" /><br />
+         <button class="buynow3">15.99 | Buy Now-></button>
+      </div>
+</body>
+</html>
+
+///////////////////////////////css/////////////////////////////////////
+html, body {
+    width:100%;
+    padding:0;
+    margin:0;
+}
+body {
+    background-color: #ffffff;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.test3 {
+  text-align:right;margin-left:8px;
+	cursor:pointer;
+	border-radius: 3px;
+	display: block;
+	padding:7px 20px;
+	color: #ffffff;
+	line-height: 28px;
+	font-size: 15px;
+	font-weight:bold;
+	transition: all 300ms ease-in-out;
+	font-family:sans-serif;
+}
+.test2 {
+  background-image: url("C:\Users\Windows\Desktop\Uflexx1\joss1.png");
+  background-color: #ffffff;
+  display:block;
+
+}
+.completeorder {
+  background: -webkit-linear-gradient(#FF0000);
+	background: -o-linear-gradient(	#FF0000, #405c9b);
+    	background: -moz-linear-gradient(#FF0000, #405c9b);
+    	background: linear-gradient(#FF0000, #FF0000);
+	cursor:pointer;
+	border-radius: 3px;
+	display: block;
+	color: #ffffff;
+	line-height: 28px;
+	font-size: 15px;
+	font-weight:bold;
+	transition: all 300ms ease-in-out;
+	font-family:sans-serif;
+}
+.getyour {
+  text-align:right;margin-left:600px;
+  background: -webkit-linear-gradient(#FF0000);
+	background: -o-linear-gradient(	#FF0000, #405c9b);
+    	background: -moz-linear-gradient(#FF0000, #405c9b);
+    	background: linear-gradient(#FF0000, #FF0000);
+	cursor:pointer;
+	border-radius: 3px;
+	display: block;
+	color: #ffffff;
+	line-height: 28px;
+	font-size: 15px;
+	font-weight:bold;
+	transition: all 300ms ease-in-out;
+	font-family:sans-serif;
+}
+.buynow1 {
+  background: -webkit-linear-gradient(#000000);
+	background: -o-linear-gradient(#000000,);
+    	background: -moz-linear-gradient(#000000,);
+    	background: linear-gradient(#000000, #000000);
+	cursor:pointer;
+	border-radius: 3px;
+	display: block;
+	color: #ffffff;
+	line-height: 28px;
+	font-size: 15px;
+	font-weight:bold;
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+	font-family:sans-serif;
+
+}
+.buynow2 {
+  background: -webkit-linear-gradient(#000000);
+  background: -o-linear-gradient(#000000,);
+      background: -moz-linear-gradient(#000000,);
+      background: linear-gradient(#000000, #000000);
+  cursor:pointer;
+  border-radius: 3px;
+  display: block;
+  color: #ffffff;
+  line-height: 28px;
+  font-size: 15px;
+  font-weight:bold;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  font-family:sans-serif;
+}
+.buynow3 {
+  background: -webkit-linear-gradient(#000000);
+  background: -o-linear-gradient(#000000,);
+      background: -moz-linear-gradient(#000000,);
+      background: linear-gradient(#000000, #000000);
+  cursor:pointer;
+  border-radius: 3px;
+  display: block;
+  color: #ffffff;
+  line-height: 28px;
+  font-size: 15px;
+  font-weight:bold;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  font-family:sans-serif;
+}
+
